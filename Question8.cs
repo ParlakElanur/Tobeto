@@ -24,6 +24,7 @@ namespace AspNetCore_Console
             }
             Console.WriteLine($"3'e veya 5'e tam bölünebilen sayılar : {numbers}");
             Console.WriteLine($"3'e veya 5'e tam bölünebilen sayı adedi : {count}");
+
         }
     }
 }

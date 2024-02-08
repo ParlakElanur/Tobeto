@@ -26,7 +26,7 @@ namespace AspNetCore_Console
                     Console.WriteLine("Monitör siparişiniz alınmıştır");
                     break;
                 default:
-                    Console.WriteLine("Tanımsız sipariş numarası");
+                    Console.WriteLine("Tanımsız sipariş no");
                     break;
             }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\NetAngularFullStack3A\\AspNetCore_Console\\AspNetCore_Console.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Tobeto\\AspNetCore_Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\NetAngularFullStack3A\\AspNetCore_Console\\AspNetCore_Console.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Tobeto\\AspNetCore_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\NetAngularFullStack3A\\AspNetCore_Console\\AspNetCore_Console.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Tobeto\\AspNetCore_Console.csproj",
         "projectName": "AspNetCore_Console",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\NetAngularFullStack3A\\AspNetCore_Console\\AspNetCore_Console.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Tobeto\\AspNetCore_Console.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\NetAngularFullStack3A\\AspNetCore_Console\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Tobeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
