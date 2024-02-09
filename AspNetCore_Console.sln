@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore_Console", "AspNetCore_Console.csproj", "{08EF5C90-505D-4E73-B203-11FF9C427EEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore_Console", "AspNetCore_Console.csproj", "{08EF5C90-505D-4E73-B203-11FF9C427EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeEgitim", "..\YoutubeEgitim\YoutubeEgitim.csproj", "{98498CDB-DACE-4BF0-AAF3-16C828330C24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{08EF5C90-505D-4E73-B203-11FF9C427EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08EF5C90-505D-4E73-B203-11FF9C427EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08EF5C90-505D-4E73-B203-11FF9C427EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98498CDB-DACE-4BF0-AAF3-16C828330C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98498CDB-DACE-4BF0-AAF3-16C828330C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98498CDB-DACE-4BF0-AAF3-16C828330C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98498CDB-DACE-4BF0-AAF3-16C828330C24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
